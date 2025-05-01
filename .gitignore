@@ -82,5 +82,4 @@ gradio_cached_examples/
 # Ignore reports
 *.pdf
 *.html
-*.md
 !docs/examples/*.md
